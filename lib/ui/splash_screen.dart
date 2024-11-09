@@ -10,6 +10,7 @@ class SplashScreen extends StatelessWidget{
       },));
     },);
     return Scaffold(
+      backgroundColor: Colors.purple,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
